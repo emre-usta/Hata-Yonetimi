@@ -1,0 +1,11 @@
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/bin/Debug/net6.0/Hatta-Yönetimi
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/bin/Debug/net6.0/Hatta-Yönetimi.dll
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/bin/Debug/net6.0/Hatta-Yönetimi.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.dll
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/refint/Hatta-Yönetimi.dll
+/Users/yunusemreusta/Desktop/Pratikler/Hatta-Yönetimi/obj/Debug/net6.0/Hatta-Yönetimi.pdb
